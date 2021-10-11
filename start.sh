@@ -42,7 +42,6 @@ if [ "$POCKETMINE_FILE" == "" ]; then
 fi
 
 LOOPS=0
-
 set +e
 
 if [ "$DO_LOOP" == "yes" ]; then
